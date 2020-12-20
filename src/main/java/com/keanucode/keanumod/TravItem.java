@@ -9,8 +9,8 @@ import net.minecraft.world.World;
 
 import java.util.List;
 
-public class FabricItem extends Item {
-    public FabricItem(Settings settings) {
+public class TravItem extends Item {
+    public TravItem(Settings settings) {
         super(settings);
     }
     @Override

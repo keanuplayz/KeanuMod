@@ -1,4 +1,7 @@
 {
   "item.keanumod.trav": "Trav",
-  "item.keanumod.trav.tooltip": "A very angry dog."
+  "item.keanumod.trav.tooltip": "A very angry dog.",
+
+  "item.keanumod.travpickaxe": "Trav Pickaxe",
+  "item.keanumod.travpickaxe.tooltip": "Why would you slam a dog against the ground?"
 }
