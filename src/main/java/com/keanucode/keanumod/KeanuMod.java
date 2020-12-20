@@ -8,7 +8,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class KeanuMod implements ModInitializer {
-    public static final Item TRAV = new Item(new FabricItemSettings().group(ItemGroup.MISC));
+    public static final Item TRAV = new FabricItem(new FabricItemSettings().group(ItemGroup.MISC));
     @Override
     public void onInitialize() {
         System.out.println("heujjjjj!!! goeie zoooi!!!!!");
